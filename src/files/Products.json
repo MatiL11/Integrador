@@ -1,0 +1,51 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society.",
+    "year": 1949,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51E7g8p1WNL.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A novel set in the Deep South during the 1930s, focusing on racial injustice.",
+    "year": 1960,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51+U0pJzNjL._SX322_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A novel about teenage angst and alienation.",
+    "year": 1951,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51C7xuFLA4L._SY344_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "description": "A novel about the history of the Buendia family in the fictional town of Macondo.",
+    "year": 1967,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51teZN+Oe7L._SX323_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel set in the Roaring Twenties, focusing on the lives of wealthy New Yorkers.",
+    "year": 1925,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51o+xnxhPKL._SY344_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "A novel about a whaling voyage and the obsession of the captain to capture the white whale.",
+    "year": 1851,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51VUj88wOxL._SX331_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A novel about the societal expectations of women in the Georgian era.",
+    "year": 1813,
+    "images": "https://images-na.ssl-images-amazon.com/images/I/51D5QSS+JaL._SY344_BO1,204,203,200_.jpg"
+  }
+]
